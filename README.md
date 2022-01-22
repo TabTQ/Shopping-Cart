@@ -1,4 +1,4 @@
-# Shopping-Cart
+# Shopping-Cart (Struts Framework)
 
 A simple Shopping Cart Web App made with JAVA
 
